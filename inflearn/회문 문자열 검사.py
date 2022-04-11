@@ -5,4 +5,5 @@ for i in range(n):
         print('#%d YES'%(i+1))
     else:
         print("#%d NO"%(i+1))
-        
+
+""" git pull """        
